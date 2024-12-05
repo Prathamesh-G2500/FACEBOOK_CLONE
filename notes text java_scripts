@@ -1,0 +1,99 @@
+java Not Equal  To Javascripts ,they are no way related
+
+
+        java/                | Javascripts
+                            |
+    (1) compiler             | Interpreater
+
+
+
+
+
+
+
+
+
+
+
+compiler: reads the entire and converts it as a whole chunk
+to the machine code at once.
+* If your code has problem ,gets  detected early and code will not 
+* It is the slow process.
+
+Interpreater reads on e line of code at a time and converts it into machine code
+*Even if your code 
+
+
+
+
+
+
+
+
+
+
+
+/*************************************************** Variables  in js********************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/************************************************ DATATYPE IN JS ************************************************************/
+(1)Primitive Data type
+-number(digits,integer,float,deciaml)
+-string(char,varchar,string)
+-Boolean(true1,false,01)
+(2)Refrence Datatype-
+-array contigeous location of memory holding the data
+-function(classes)
+-objects
+(3)other data type
+-undefined variables whose values is not defined
+-Nulls every objects.
+
+*********************************************** Operators in JS **************************************************************
+a-> + :add number
+b-> - :substrcats number
+c-> * :multiplay number
+d-> / :div  number
+e-> % :If given divison of reminder operator.
+
+f-> Increment
+(1) preincrementr ++:number
+(2) postincrement number:++
+eg:
+var num = 10
+
+console.log(num++)
+
+console.log(++num)
+
+f-> Decriment
+(1) predecriment --:number
+(2) postdecrimentt number:--
+
+eg:var num = 10
+
+console.log(num--)
+
+console.log(--num)
+
+
+
+
+
